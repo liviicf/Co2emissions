@@ -8,3 +8,5 @@ Data: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv, 
 Data Processing: After inputing the data, we removed observations and rows without corresponding countries and found colums wiht missing information. Then, found the top 10 countries with highest Co2 emissions and the year range in the data set. From there, we made a histogram, a boxplot wth a swarm plot, a time plot with all the countires adding the average Co2 emissions and a log scale .
 
 Author: Livii Fetterley
+
+License: Under MIT this Github repository is associated  
