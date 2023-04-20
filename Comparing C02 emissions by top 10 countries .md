@@ -1,5 +1,5 @@
 # Comparing Co2emissions by Country from 1970-2020
-We compared the countires with the top 10 CO2 emissions from 1970-2020 by using Pthyon. In so, we coded and manipulated data and built a box plot with swarm plot, a hisotgram and a time plot. After examinationm we found that out of the top 10 countrties with most Co2 emissons, China and the U.S. contributed the highest. The amount of emissions the 2 countries released dramatically increased the world average by all counties of CO2 emissions. 
+Description: We compared the countires with the top 10 CO2 emissions from 1970-2020 by using Pthyon. In so, we coded and manipulated data and built a box plot with swarm plot, a hisotgram and a time plot. After examinationm we found that out of the top 10 countrties with most Co2 emissons, China and the U.S. contributed the highest. The amount of emissions the 2 countries released dramatically increased the world average by all counties of CO2 emissions. 
 
 Requirments: Python coding with descriptions and answer to questions by examination of Python coding
 
